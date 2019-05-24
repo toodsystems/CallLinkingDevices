@@ -8,6 +8,6 @@ Using Linking SDK distributed by [Project Linking](https://qiita.com/Tood/items/
 
 ## Usage
 
-- Install Linking APP for Android.
+- Install [Linking APP](https://play.google.com/store/apps/details?id=com.nttdocomo.android.smartdeviceagent) for Android.
 - Connect Linking device to Android device.
 - This APP sends messages to control Linking devices.
