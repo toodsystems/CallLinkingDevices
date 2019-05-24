@@ -4,7 +4,7 @@
 
 Send messages to Linking devices from your Android device.
 
-Using Linking SDK distributed by [Project Linking](https://qiita.com/Tood/items/4d05970dc93b9c770e97).
+Using Linking SDK distributed by [Project Linking](https://linkingiot.com/).
 
 ## Usage
 
